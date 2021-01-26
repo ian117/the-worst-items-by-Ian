@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/the-worst-items-by-Ian/static/css/main.5f544925.chunk.css",
+    "main.js": "/the-worst-items-by-Ian/static/js/main.3924b91e.chunk.js",
+    "main.js.map": "/the-worst-items-by-Ian/static/js/main.3924b91e.chunk.js.map",
+    "runtime-main.js": "/the-worst-items-by-Ian/static/js/runtime-main.fb02fe7e.js",
+    "runtime-main.js.map": "/the-worst-items-by-Ian/static/js/runtime-main.fb02fe7e.js.map",
+    "static/css/2.150d169a.chunk.css": "/the-worst-items-by-Ian/static/css/2.150d169a.chunk.css",
+    "static/js/2.7599c84a.chunk.js": "/the-worst-items-by-Ian/static/js/2.7599c84a.chunk.js",
+    "static/js/2.7599c84a.chunk.js.map": "/the-worst-items-by-Ian/static/js/2.7599c84a.chunk.js.map",
+    "static/js/3.63fb59fc.chunk.js": "/the-worst-items-by-Ian/static/js/3.63fb59fc.chunk.js",
+    "static/js/3.63fb59fc.chunk.js.map": "/the-worst-items-by-Ian/static/js/3.63fb59fc.chunk.js.map",
+    "index.html": "/the-worst-items-by-Ian/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/the-worst-items-by-Ian/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.5f544925.chunk.css.map": "/the-worst-items-by-Ian/static/css/main.5f544925.chunk.css.map",
+    "static/js/2.7599c84a.chunk.js.LICENSE.txt": "/the-worst-items-by-Ian/static/js/2.7599c84a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb02fe7e.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.7599c84a.chunk.js",
+    "static/css/main.5f544925.chunk.css",
+    "static/js/main.3924b91e.chunk.js"
+  ]
+}
