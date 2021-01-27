@@ -4,7 +4,7 @@ import Expectiation from './components/Expectiation';
 import Hobbies from './components/Hobbies';
 import Interest from './components/Interest';
 import Learn from './components/Learn';
-import { propTypes } from 'react-bootstrap/esm/Image';
+import Card from './components/Card'
 
 function App() {
 {/* Profile */}
@@ -29,7 +29,7 @@ const expectation1p = "In this moment, i just want to learn the basics, i know i
   return (
     <div className="App">
       <div className="d-flex flex-wrap">
-        <Profile name={name} country={country} age={age}/>
+        <Card title="Profile" text={`Mi nombre es Ian Vass, tengo 20 años y soy de México`} divColor="bg-warning"/>
         <Learn firstP={learn1P} secondP={learn2P} thirdP={learn3P}/>
         <Expectiation firstP={expectation1p}/>
         <Hobbies firstP={hobbies1P}/>
